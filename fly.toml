@@ -17,9 +17,6 @@ primary_region = 'fra'
   min_machines_running = 0
   processes = ['app']
 
-[build]
-  image = "n8nio/n8n"
-
 [[services]]
   protocol = "tcp"
   internal_port = 5678        # <-- porta vera di n8n
