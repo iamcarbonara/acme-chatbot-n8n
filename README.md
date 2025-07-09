@@ -1,7 +1,7 @@
 # acme-chatbot-n8n
-see2AI – Automazioni con n8n
+Automazioni con n8n
 
-Benvenuti nel repository see2AI. Questo spazio raccoglie le mie prime prove nello sviluppo di flussi di automazione con n8n, progettati per risolvere esigenze reali dei clienti e per essere successivamente venduti come soluzioni pronte all’uso.
+Benvenuti nel repository acme-chatbot-n8n. Questo spazio raccoglie le mie prime prove nello sviluppo di flussi di automazione con n8n, progettati per risolvere esigenze reali dei clienti e per essere successivamente venduti come soluzioni pronte all’uso.
 
 Scopo del progetto
 
@@ -35,7 +35,7 @@ Come iniziare
 
 Clonare il repository:
 
-git clone https://github.com/tuo-utente/see2AI.git
+git clone https://github.com/<user>/acme-chatbot-n8n.git
 
 Installare le dipendenze e avviare n8n in locale:
 
@@ -73,4 +73,4 @@ Email: phiamcarbonara@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/alessandro-bonanni-915378181/
 
-Grazie per l’interesse e buon divertimento con See2AI!
+Grazie per l’interesse e buon divertimento con acme-chatbot-n8n!
