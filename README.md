@@ -13,13 +13,10 @@ Valorizzazione commerciale: preparare pacchetti di automazioni da offrire ai cli
 
 Struttura del repository
 
-workflows/  – Contiene i file JSON esportati da n8n per ogni flusso.
-
-docs/        – Appunti, schemi e materiali di supporto.
-
-scripts/     – Utility per il deploy o la conversione dei flussi.
-
-examples/    – Esempi di utilizzo e casi d’uso simulati.
+- `workflows/` – Contiene i file JSON esportati da n8n per ogni flusso.
+- `docs/` – Appunti, schemi e materiali di supporto.
+- `scripts/` – Utility per il deploy o la conversione dei flussi.
+- `examples/` – Esempi di utilizzo e casi d’uso simulati.
 
 Nota: La struttura potrebbe evolversi con l’aumentare dei casi d’uso e dei clienti serviti.
 
