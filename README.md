@@ -35,7 +35,7 @@ Come iniziare
 
 Clonare il repository:
 
-git clone https://github.com/<user>/acme-chatbot-n8n.git
+git clone https://github.com/iamcarbonara/acme-chatbot-n8n.git
 
 Installare le dipendenze e avviare n8n in locale:
 
