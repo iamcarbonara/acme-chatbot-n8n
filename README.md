@@ -54,11 +54,9 @@ Autore
 
 Alessandro Bonanni – appassionato di automazione, data integration e processi low‑code.
 
-Copyright
+Licenza
 
-Tutti i contenuti di questo repository – inclusi codice, flussi, documentazione e materiale multimediale – sono protetti da diritto d’autore © 2025 Alessandro Bonanni. Tutti i diritti sono riservati.
-
-La riproduzione, modifica o distribuzione, totale o parziale, senza esplicita autorizzazione scritta è vietata.
+Questo progetto è distribuito con licenza proprietaria. Nessun uso, copia, modifica o distribuzione è permesso senza autorizzazione scritta dell'autore. Vedi il file [LICENSE](LICENSE) per i dettagli.
 
 Contributi
 
