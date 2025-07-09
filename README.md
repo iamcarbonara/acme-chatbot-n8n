@@ -46,6 +46,13 @@ Importare i file JSON presenti in workflows/ tramite l’interfaccia di n8n.
 
 Configurare le credenziali API indicate nella documentazione del singolo flusso.
 
+### Deployment su Fly.io
+
+1. Installa `flyctl` e autentica il tuo account.
+2. Esegui `flyctl launch` oppure `flyctl deploy` per pubblicare l'app.
+
+Il file `fly.toml` incluso espone la porta `5678`.
+
 Autore
 
 Alessandro Bonanni – appassionato di automazione, data integration e processi low‑code.
