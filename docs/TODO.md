@@ -26,6 +26,8 @@
    - Verifica che il repository sia collegato a GitHub per poter usufruire di Codex.
    - Usa Copilot per suggerire script di automazione (es. GitHub Actions) per test e deploy.
    - Effettua commit regolari con messaggi significativi.
+   - Puoi programmare i commit orari con `scripts/auto-commit.sh` e un cron job
+     (`0 * * * * /percorso/del/repo/scripts/auto-commit.sh`).
 
 6. **Accesso da mobile**
    - Installa un'app di terminale sul cellulare (es. Termius o app SSH simili).
