@@ -24,7 +24,8 @@
 
 5. **Versionamento e CI**
    - Verifica che il repository sia collegato a GitHub per poter usufruire di Codex.
-   - Usa Copilot per suggerire script di automazione (es. GitHub Actions) per test e deploy.
+   - Usa Copilot o Codex per configurare gli script di automazione (es. GitHub Actions) per test e deploy.
+   - È stato aggiunto il file `.github/workflows/test-and-deploy.yml` che esegue i test e, se passano su `main`, effettua il deploy su Fly.io.
    - Effettua commit regolari con messaggi significativi.
 
 6. **Accesso da mobile**

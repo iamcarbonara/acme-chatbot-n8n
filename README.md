@@ -50,6 +50,10 @@ Configurare le credenziali API indicate nella documentazione del singolo flusso.
 
 Il file `fly.toml` incluso espone la porta `5678`.
 
+### Automazione CI/CD
+
+È disponibile il workflow GitHub Actions `.github/workflows/test-and-deploy.yml` che esegue i test ad ogni push e, se l'esecuzione su `main` ha esito positivo, effettua il deploy su Fly.io. Configura il segreto `FLY_API_TOKEN` nel repository per abilitare la pubblicazione automatica.
+
 Autore
 
 Alessandro Bonanni – appassionato di automazione, data integration e processi low‑code.
