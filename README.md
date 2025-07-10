@@ -47,6 +47,8 @@ Configurare le credenziali API indicate nella documentazione del singolo flusso.
 
 1. Installa `flyctl` e autentica il tuo account.
 2. Esegui `flyctl launch` oppure `flyctl deploy` per pubblicare l'app.
+   Nel repository è presente un semplice `Dockerfile` utilizzato da Fly.io
+   qualora non si specifichi un'immagine predefinita.
 
 Il file `fly.toml` incluso espone la porta `5678`.
 
