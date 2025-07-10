@@ -27,6 +27,8 @@
    - Usa Copilot o Codex per configurare gli script di automazione (es. GitHub Actions) per test e deploy.
    - È stato aggiunto il file `.github/workflows/test-and-deploy.yml` che esegue i test e, se passano su `main`, effettua il deploy su Fly.io.
    - Effettua commit regolari con messaggi significativi.
+   - Puoi programmare i commit orari con `scripts/auto-commit.sh` e un cron job
+     (`0 * * * * /percorso/del/repo/scripts/auto-commit.sh`).
 
 6. **Accesso da mobile**
    - Installa un'app di terminale sul cellulare (es. Termius o app SSH simili).
